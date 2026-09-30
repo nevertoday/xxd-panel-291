@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 291"
+  short_description: "温柔图腾：上半保留原照，下半把主体收成旧绘本式的小图腾"
+  default_prompt: "Use $xxd-panel-291 to transform my photograph following the complete canonical source brief."
